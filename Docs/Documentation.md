@@ -13,7 +13,6 @@ wishes to challenge a player of rank x+2
 <br />
 <img src="Points_table/Docs/x_x1.jpg" alt="drawing" width="300"/>
 <br />
-![alt text](https://github.com/Khries/Points_table/Docs/x_x1.jpg?raw=true)
 ### Condition-3: 
 Suppose rank x plays against rank x+1. And rank x wins, then rank x gets +2 points
 
