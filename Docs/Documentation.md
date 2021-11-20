@@ -11,7 +11,7 @@ with players of rank x+1 and x-1 respectively. Special matches can be held if a 
 
 wishes to challenge a player of rank x+2
 <br />
-<img src="x_x1.jpg" alt="drawing" width="300"/>
+<img src="Points_table/Docs/x_x1.jpg" alt="drawing" width="300"/>
 <br />
 
 ### Condition-3: 
