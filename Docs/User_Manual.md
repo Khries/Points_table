@@ -1,6 +1,6 @@
 # An example to use the given program is shown below
 To run the program successfully, place the Table_points.csv and the ranking.py code in the same folder.
-The following steps is a demo of the program.
+The following steps, is a demo of the program.
 
 ## 1) Raw Table:
 This Table contains the details of the player such as name, points and ranking.
